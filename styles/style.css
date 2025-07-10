@@ -1,0 +1,83 @@
+/*Shared css */
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+.raleway-normal{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.primary-text-color{
+  color:#4E47FF;
+}
+
+.primary-bg-color{
+  background-color:#4E47FF;;
+}
+
+/* CSS styles of nav tag */
+nav h1{
+  font-weight:bold;
+  font-size:31px;
+}
+
+.shared-button-features{
+  color:white;
+  font-size:16px;
+  font-weight:bold;
+  border-radius:10px;
+  border-style: none;
+}
+
+nav button{
+  width:132px;
+  height:42px;
+  
+}
+
+nav{
+  display:flex;
+  justify-content:space-between;
+  margin:0px 150px 158px;
+  align-items:center;
+  
+}
+
+/*CSS styles applied to banner-container div */
+
+.banner-info{
+ max-width:1440px;
+ margin:0 auto;
+ }
+
+.banner-info h1{
+  font-size:65px;
+  font-weight:bold;
+}
+
+.banner-info button{
+  width:174px;
+  height:48px;
+  margin-top:37px;
+  margin-left:365.5px;
+  margin-right:365.5px;
+}
+
+.banner-container{
+  margin:158px 267.5px 152px 267.5px;
+}
+
+/*CSS styles applied to header */
+header{
+  background-image:url(../Assets/Hero-bg.png);
+}
+
+
+
+
+
