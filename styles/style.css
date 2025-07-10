@@ -77,6 +77,39 @@ header{
   background-image:url(../Assets/Hero-bg.png);
 }
 
+/*CSS styles of main section */
+
+main{
+max-width:1440px;
+ margin:auto;
+}
+.action-title{
+    font-size:42px;
+    font-weight:bold;
+}
+.action-subtitle{
+  font-size:24px;
+  font-weight:400px;
+  color:#252432;
+}
+
+.left-side button{
+  margin-top:23px;
+  width:229px;
+  height: 48px;
+}
+
+.action-section{
+  display:flex;
+  gap:220px;
+  align-items: center;
+  margin-top:116px;
+}
+.right-side img{
+  width:403px;
+  border-radius:48px;
+}
+
 
 
 
