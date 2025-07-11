@@ -247,10 +247,16 @@ ul{
   list-style: none;
   text-align:center;
 }
+
+li a{
+  text-decoration:none;
+  color:#8987A1;
+}
 ul li{
   display:inline;
   margin-right:48px;
-  color:#8987A1;
+  
+  
 }
 
 button:hover{
